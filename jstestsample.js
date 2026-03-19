@@ -6,6 +6,8 @@ let y=6;
 y=3;
 //ithuo onna add panuvom 
 //epdi work agum 
+//summma
+//summma
 console.log(y);
 
 var raja=4;
