@@ -4,7 +4,10 @@ let x=5;
 let y=6;
 //creating conflict
 y=3;
+//ithuo onna add panuvom 
 //epdi work agum 
+//summma
+//summma
 //puthusa add pana line
 console.log(y);
 
