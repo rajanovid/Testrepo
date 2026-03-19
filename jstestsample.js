@@ -11,6 +11,7 @@ console.log(y);
 var raja=4;
 //worka gathu
 var raja="arun";
+//adding 15th line
 raja=0;
 
 console.log(raja);
