@@ -1,6 +1,8 @@
 let x=5;
 let y=6;
 y=3;
+//"summa try panren enna nadakuthunu pakalam "
+//work agutha let see
 console.log(y);
 
 var raja=4;
@@ -8,6 +10,7 @@ var raja="arun";
 raja=0;
 
 console.log(raja);
+//"trying the code"
 console.log(typeof raja);
 let rr=113;
 console.log(rr);
