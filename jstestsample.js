@@ -1,5 +1,7 @@
 let x=5;
+//creating conflict
 let y=6;
+//creating conflict
 y=3;
 //epdi work agum 
 console.log(y);
