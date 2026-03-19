@@ -3,6 +3,7 @@ let x=5;
 let y=6;
 //creating conflict
 y=3;
+//ithuo onna add panuvom 
 //epdi work agum 
 console.log(y);
 
