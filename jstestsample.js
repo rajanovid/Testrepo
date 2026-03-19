@@ -5,6 +5,7 @@ let y=6;
 //creating conflict
 y=3;
 //epdi work agum 
+//puthusa add pana line
 console.log(y);
 
 var raja=4;
