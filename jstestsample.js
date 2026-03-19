@@ -3,9 +3,11 @@ let x=5;
 let y=6;
 //creating conflict
 y=3;
+//epdi work agum 
 console.log(y);
 
 var raja=4;
+//worka gathu
 var raja="arun";
 raja=0;
 
