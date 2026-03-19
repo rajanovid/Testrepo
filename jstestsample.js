@@ -1,6 +1,7 @@
 let x=5;
 let y=6;
 y=3;
+//epdi work agum 
 //"summa try panren enna nadakuthunu pakalam "
 //work agutha let see
 console.log(y);
