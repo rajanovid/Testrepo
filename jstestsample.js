@@ -2,12 +2,10 @@ let x=5;
 let y=6;
 y=3;
 //epdi work agum 
-//"summa try panren enna nadakuthunu pakalam "
-//work agutha let see
-//"im working on this branch"
 console.log(y);
 
 var raja=4;
+//worka gathu
 var raja="arun";
 raja=0;
 
